@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "todo": "Code"
+    },
+    {
+      "id": 3,
+      "todo": "Code2"
+    },
+    {
+      "id": 4,
+      "todo": " Code3"
+    },
+    {
+      "id": 5,
+      "todo": "Code4"
+    },
+    {
+      "todo": "đã tạo",
+      "id": 6
+    }
+  ]
+}
